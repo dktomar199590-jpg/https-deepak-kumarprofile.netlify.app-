@@ -1,0 +1,1 @@
+var e=`/assets/profile-DecPLIb4.jpg`;export{e as t};
